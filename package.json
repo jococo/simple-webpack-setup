@@ -22,9 +22,7 @@
     "webpack": "^2.5.1"
   },
   "devDependencies": {
-    "@types/core-js": "^0.9.41",
     "@types/jquery": "^2.0.45",
-    "core-js": "^2.4.1",
     "ts-loader": "^2.1.0",
     "typescript": "^2.3.3"
   }
