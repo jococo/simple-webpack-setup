@@ -24,6 +24,7 @@
   "devDependencies": {
     "@types/jquery": "^2.0.45",
     "ts-loader": "^2.1.0",
-    "typescript": "^2.3.3"
+    "typescript": "^2.3.3",
+    "webpack-dev-server": "^2.4.5"
   }
 }
