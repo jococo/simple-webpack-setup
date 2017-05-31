@@ -1,0 +1,31 @@
+{
+  "name": "simple-webpack-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^2.0.43",
+    "@types/node": "^7.0.18",
+    "css-loader": "^0.28.1",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "html-webpack-plugin": "^2.28.0",
+    "jquery": "^3.2.1",
+    "style-loader": "^0.17.0",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.3.2",
+    "webpack": "^2.5.1",
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.41",
+    "@types/jquery": "^2.0.45",
+    "core-js": "^2.4.1",
+    "ts-loader": "^2.1.0",
+    "typescript": "^2.3.3"
+  }
+}
